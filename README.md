@@ -1,0 +1,2 @@
+# Java-MiniMvcProject
+In this Mini MVC Project(jsp+Servlet+JDBC), I have created two panels. One is an admin panel and the second is a user panel. This project has gone into all  layers. 1 in the Admin panel. I have created a different database to validate for admin. If the administrator enters the correct user name and password, he or she is capable of create, delete, and update user information as well as view any user's full information. 2. In the user panel, users can only register and login .
